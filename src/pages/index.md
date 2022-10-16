@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Test Website
-image: https://unsplash.com/photos/AFB6S2kibuk
+image: /img/blog-index.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
